@@ -1,6 +1,4 @@
---[[
-    CacheManager.lua
-]]
+--!strict
 
 local CacheManager = {}
 CacheManager.__index = CacheManager
